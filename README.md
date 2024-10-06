@@ -22,17 +22,18 @@
  </div>
  
  <div style="text-align: left;">
-    <div style="text-align: left;">
+    <div align="center">
     <a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank" style="text-decoration: none; border: none;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-george" height="30" width="40" style="margin-right: 10px;" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-george" height="30" width="40" style="margin-right: 10px;" />
     </a>
     <a href="https://instagram.com/mcgeorgus" target="_blank" style="text-decoration: none; border: none;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcgeorgus" height="30" width="40" style="margin-right: 10px;" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcgeorgus" height="30" width="40" style="margin-right: 10px;" />
     </a>
     <a href="https://www.youtube.com/@marc.mgeorge" target="_blank" style="text-decoration: none; border: none;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marc.mgeorge" height="30" width="40" style="margin-right: 10px;" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marc.mgeorge" height="30" width="40" />
     </a>
 </div>
+
 
 </div>
 
