@@ -32,9 +32,6 @@
     <a href="https://www.youtube.com/@marc.mgeorge" target="_blank" style="text-decoration: none; border: none;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marc.mgeorge" height="30" width="40" style="margin-right: 10px;" />
     </a>
-    <a href="mailto:marcgeorgenow@gmail.com" style="text-decoration: none; border: none;">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Gmail_Icon.svg" alt="marcgeorgenow" height="30" width="40" />
-    </a>
 </div>
 
 </div>
