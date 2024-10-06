@@ -21,12 +21,21 @@
 
  </div>
  
- <a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank" style="text-decoration: none; border: none; display: flex; align-items: center;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-george" height="30" width="40" style="margin-right: 10px;" />
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcgeorgus" height="30" width="40" style="margin-right: 10px;" />
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marc.mgeorge" height="30" width="40" style="margin-right: 10px;" />
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Gmail_Icon.svg" alt="marcgeorgenow" height="30" width="40" />
-</a>
+ <div style="text-align: left;">
+    <a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank" style="text-decoration: none; border: none;">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-george" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/mcgeorgus" target="_blank" style="text-decoration: none; border: none;">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcgeorgus" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/@marc.mgeorge" target="_blank" style="text-decoration: none; border: none;">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marc.mgeorge" height="30" width="40" />
+    </a>
+    <a href="mailto:marcgeorgenow@gmail.com" style="text-decoration: none; border: none;">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Gmail_Icon.svg" alt="marcgeorgenow" height="30" width="40" />
+    </a>
+</div>
+
 
 
 </div>
