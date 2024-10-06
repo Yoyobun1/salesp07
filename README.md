@@ -25,7 +25,7 @@
   <a href="mailto:marcgeorgenow@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <<a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank">
+  <a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/your_instagram_username" target="_blank">
