@@ -6,7 +6,6 @@
 
 <h3 align="center">A Machine Learning engineer from India!</h3>
 
-<br/>
 
 <div align="center">
  
@@ -71,12 +70,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-<br/>
 
 <h2 align="center">Me in a nutshell</h2>
 <div align="center">
