@@ -71,13 +71,16 @@
 
 <br/>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/Yoyobun1/Yoyobun1/blob/main/assets/left_gif.gif" alt="Left GIF" style="width: 300px; height: auto;"/>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/Yoyobun1/Yoyobun1/blob/main/assets/right_gif.gif" alt="Right GIF" style="width: 300px; height: auto;"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/Yoyobun1/Yoyobun1/blob/main/assets/left_gif.gif" alt="Left GIF" style="width: 300px; height: auto;"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/Yoyobun1/Yoyobun1/blob/main/assets/right_gif.gif" alt="Right GIF" style="width: 300px; height: auto;"/>
+    </td>
+  </tr>
+</table>
+
 
 
