@@ -24,7 +24,7 @@
 <div align="center"> 
   <div style="text-align: center;">
     <a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-george" height="40" width="40" style="margin-bottom: 20px;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-george" height="40" width="40" style="margin-bottom: 40px;" />
     </a><br>
     <a href="https://instagram.com/mcgeorgus" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcgeorgus" height="40" width="40" style="margin-bottom: 20px;" />
