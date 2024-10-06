@@ -32,8 +32,8 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 <a href="mailto:marcgeorgenow@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-</a>
+    <img src="https://img.shields.io/badge/Gmail-333333?st
+
 
 
 </div>
