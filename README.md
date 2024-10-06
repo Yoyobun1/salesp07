@@ -16,7 +16,6 @@
 💬 Ask me about **Python, ML Algorithms and concepts ... or anything [here](https://github.com/Yoyobun1/Yoyobun1/issues)**
 
 ⚡ Fun facts about music:
- **FAQs on Interesting Facts about Music**
 - Loud music can make you drink more quickly.
 - None of The Beatles could read or write music.
 
