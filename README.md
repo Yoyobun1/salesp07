@@ -23,19 +23,20 @@
  
 <div align="center"> 
   <div style="text-align: center;">
-    <a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank" style="margin-bottom: 30px;"> <!-- Increased padding for LinkedIn -->
+    <a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank" style="margin-bottom: 30px;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-george" height="40" width="40" />
     </a><br>
     <a href="https://instagram.com/mcgeorgus" target="_blank" style="margin-bottom: 20px;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcgeorgus" height="40" width="40" />
     </a><br>
-    <a href="https://youtube.com/marc.mgeorge" target="_blank" style="margin-bottom: 20px;">
+    <a href="https://www.youtube.com/@marc.mgeorge" target="_blank" style="margin-bottom: 20px;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marc.mgeorge" height="40" width="40" />
     </a><br>
     <a href="mailto:marcgeorgenow@gmail.com" style="margin-bottom: 20px;">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Gmail_Icon.svg" alt="marcgeorgenow" height="40" width="40" />
     </a>
 </div>
+
 
 
 
