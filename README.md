@@ -67,8 +67,7 @@
 <br/>
 
 <div align="center">
-<a>![Alt Text](https://media.giphy.com/media/https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl4Y3dhMHBqOW00dHpycG1lY3ZlN3A5bmZ5YWFlcjMzOTM5dmprMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BYgvpiJqjXBFC/giphy.gif/giphy.gif)
-</a>
+![Exciting Animation](https://media.giphy.com/media/https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl4Y3dhMHBqOW00dHpycG1lY3ZlN3A5bmZ5YWFlcjMzOTM5dmprMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BYgvpiJqjXBFC/giphy.gif) 
 </div>
 
 <br/>
