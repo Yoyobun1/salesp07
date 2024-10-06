@@ -16,12 +16,9 @@
 💬 Ask me about **Python, ML Algorithms and concepts ... or anything [here](https://github.com/Yoyobun1/Yoyobun1/issues)**
 
 ⚡ Fun facts about music:
- **FAQs on Interesting Facts about Music 2024: All Admirers should Know**
+ **FAQs on Interesting Facts about Music**
 - Loud music can make you drink more quickly.
-- Music is beneficial for heart health.
 - None of The Beatles could read or write music.
-- The song with the longest title has 29 words.
-- Michael Jackson wrote "Do the Bartman" from The Simpsons.
 
  </div>
  
