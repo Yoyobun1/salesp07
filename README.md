@@ -16,7 +16,13 @@
 
 💬 Ask me about **Pyhton, ML Algorithms and concepts ... or anything [here](https://github.com/Yoyobun1/Yoyobun1/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun facts about music:
+ **FAQs on Interesting Facts about Music 2024: All Admirers should Know**
+- Loud music can make you drink more quickly.
+- Music is beneficial for heart health.
+- None of The Beatles could read or write music.
+- The song with the longest title has 29 words.
+- Michael Jackson wrote "Do the Bartman" from The Simpsons.
 
  </div>
  
@@ -65,6 +71,11 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl4Y3dhMHBqOW00dHpycG1lY3ZlN3A5bmZ5YWFlcjMzOTM5dmprMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BYgvpiJqjXBFC/giphy.gif" alt="Exciting Animation"/>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; text-align: left;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl4Y3dhMHBqOW00dHpycG1lY3ZlN3A5bmZ5YWFlcjMzOTM5dmprMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BYgvpiJqjXBFC/giphy.gif" alt="Left GIF" style="max-width: 100%; height: auto;"/>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW93N3BtaXExbGlicHQ2emxiN205a3djOTM1ZWJ0a3Ayb2wzNjJkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iO1SXgxGMJnTxCmAKs/giphy-downsized-large.gif" alt="Right GIF" style="max-width: 100%; height: auto;"/>
+  </div>
 </div>
