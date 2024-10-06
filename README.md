@@ -76,6 +76,7 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl4Y3dhMHBqOW00dHpycG1lY3ZlN3A5bmZ5YWFlcjMzOTM5dmprMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BYgvpiJqjXBFC/giphy.gif" alt="Left GIF" style="max-width: 100%; height: auto;"/>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW93N3BtaXExbGlicHQ2emxiN205a3djOTM1ZWJ0a3Ayb2wzNjJkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iO1SXgxGMJnTxCmAKs/giphy-downsized-large.gif" alt="Right GIF" style="max-width: 100%; height: auto;"/>
+    <img src="https://github.com/Yoyobun1/Yoyobun1/assets/left_gif.gif" alt="Right GIF" style="max-width: 100%; height: auto;"/>
   </div>
 </div>
+
