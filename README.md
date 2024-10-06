@@ -56,16 +56,13 @@
 
 <hr/>
 
-<h2 style="text-align: center;">GitHub Streak Stats</h2>
-<table style="margin: auto;">
-    <tr>
-        <td style="text-align: center;">
-            <a href="https://git.io/streak-stats">
-                <img src="https://streak-stats.demolab.com/?user=Yoyobun1&theme=dark" alt="GitHub Streak Stats" />
-            </a>
-        </td>
-    </tr>
-</table>
+<h2 align="center">GitHub Streak Stats</h2>
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Yoyobun1&theme=dark" alt="GitHub Streak Stats" /> 
+    </a>
+</p>
+
 
 
 
