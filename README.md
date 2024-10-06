@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Machine learning Specialization with Deeplearning.ai**
 
-💬 Ask me about **Pyhton, ML Algorithms and concepts ... or anything [here](https://github.com/Yoyobun1/Yoyobun1/issues)**
+💬 Ask me about **Python, ML Algorithms and concepts ... or anything [here](https://github.com/Yoyobun1/Yoyobun1/issues)**
 
 ⚡ Fun facts about music:
  **FAQs on Interesting Facts about Music 2024: All Admirers should Know**
