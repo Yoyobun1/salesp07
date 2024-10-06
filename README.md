@@ -69,9 +69,9 @@
 <br/>
 
 <div align="center">
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="padding-right: 20px;"> <!-- Adjust padding for gap -->
         <img src="https://github.com/Yoyobun1/Yoyobun1/blob/main/assets/left_gif.gif" alt="Left GIF" style="width: 300px; height: auto;"/>
       </td>
       <td align="center" width="50%">
@@ -80,6 +80,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
