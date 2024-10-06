@@ -63,6 +63,12 @@
     </a>
 </p>
 
+<h2 align="center">GitHub Language Stats</h2>
+<p align="center">
+    <a href="https://github.com/Yoyobun1">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoyobun1&hide=contribs,prs" alt="Anurag's GitHub stats" style="border: none;"/>
+</a>
+</p>
 
 
 
