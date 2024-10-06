@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A Neural Network**
+ 🔭 I’m currently working on **Learning Neural Networks**
  
  🌱 I’m currently learning **Machine learning Specialization with Deeplearning.ai**
 
