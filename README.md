@@ -59,7 +59,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Yoyobun1">
-        <img src="https://github-readme-stats.vercel.app/api?username=Yoyobun1&hide=contribs,prs&theme=dark" alt="GitHub Language Stats" style="width: 100%; height: auto; border: none;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Yoyobun1&hide=contribs,prs&theme=gruvbox" alt="GitHub Language Stats" style="width: 100%; height: auto; border: none;"/>
       </a>
     </td>
   </tr>
