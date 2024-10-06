@@ -23,17 +23,18 @@
  
 <div align="center"> 
   <a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-george" height="30" width="40" />
 </a>
 <a href="https://instagram.com/mcgeorgus" target="_blank">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcgeorgus" height="30" width="40" />
 </a>
 <a href="https://youtube.com/marc.mgeorge" target="_blank">
-    <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marc.mgeorge" height="30" width="40" />
 </a>
 <a href="mailto:marcgeorgenow@gmail.com">
-    <img src="https://img.shields.io/badge/-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="marcgeorgenow" height="30" width="40" />
 </a>
+
 
 </div>
 
