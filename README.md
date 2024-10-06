@@ -56,12 +56,11 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<h2>GitHub Streak Stats</h2>
-<div>
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Yoyobun1" alt="GitHub Streak Stats" />
-</a>
+<h2 style="text-align: center;">GitHub Streak Stats</h2>
+<div style="text-align: center;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak Stats" />
+    </a>
 </div>
 
 
