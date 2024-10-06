@@ -21,25 +21,20 @@
 
  </div>
  
-<div align="center"> 
-  <div style="text-align: center;">
-    <a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank" style="margin-bottom: 50px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-george" height="70" width="70" />
-    </a><br>
-    <a href="https://instagram.com/mcgeorgus" target="_blank" style="margin-bottom: 50px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcgeorgus" height="70" width="70" />
-    </a><br>
-    <a href="https://www.youtube.com/@marc.mgeorge" target="_blank" style="margin-bottom: 50px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marc.mgeorge" height="70" width="70" />
-    </a><br>
-    <a href="mailto:marcgeorgenow@gmail.com" style="margin-bottom: 50px;">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Gmail_Icon.svg" alt="marcgeorgenow" height="70" width="70" />
+  <div style="display: flex; align-items: center; justify-content: flex-start;">
+    <a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank" style="margin-right: 50px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-george" height="70" width="70" />
+    </a>
+    <a href="https://instagram.com/mcgeorgus" target="_blank" style="margin-right: 50px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcgeorgus" height="70" width="70" />
+    </a>
+    <a href="https://www.youtube.com/@marc.mgeorge" target="_blank" style="margin-right: 50px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marc.mgeorge" height="70" width="70" />
+    </a>
+    <a href="mailto:marcgeorgenow@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Gmail_Icon.svg" alt="marcgeorgenow" height="70" width="70" />
     </a>
 </div>
-
-
-</div>
-
 
 
 
