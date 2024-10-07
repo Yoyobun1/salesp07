@@ -77,12 +77,7 @@
 <div align="center" width="50%">
   <!-- Second User: Yoyobun1 -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Yoyobun1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph for Yoyobun1" style="width: 80%; height: auto;" />
-  </a>
-</div>
-<div align="center" width="50%">
-  <a href="https://github.com/Yoyobun1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoyobun1&radius=16&theme=react&area=true&order=5" alt="activity-graph for Yoyobun1" style="width: 80%; height: auto; border: none;" />
+    <img src="https://streak-stats.demolab.com/?user=Yoyobun1&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" alt="streak graph for Yoyobun1" style="width: 80%; height: auto;" />
   </a>
 </div>
 
