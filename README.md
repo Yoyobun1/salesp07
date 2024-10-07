@@ -63,12 +63,12 @@
 <h2 align="center">GitHub Stats</h2>
     <div align="center" width="50%">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Yoyobun1&theme=gruvbox&hide_border=false&border_radius=5&order=3" alt="GitHub Streak Stats" style="width: 100%; height: auto;"/>
+        <img src="https://streak-stats.demolab.com/?user=Yoyobun1&theme=gruvbox" alt="GitHub Streak Stats" style="width: 100%; height: auto;"/>
       </a>
     </div>
     <div align="center" width="50%">
       <a href="https://github.com/Yoyobun1">
-        <img src="https://github-readme-stats.vercel.app/api?username=Yoyobun1&hide=contribs,prs&theme=gruvbox&hide_border=false&border_radius=5&order=3" alt="GitHub Language Stats" style="width: 100%; height: auto; border: none;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Yoyobun1&hide=contribs,prs&theme=gruvbox" alt="GitHub Language Stats" style="width: 100%; height: auto; border: none;"/>
       </a>
     </div>
 
