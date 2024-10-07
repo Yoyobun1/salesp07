@@ -21,13 +21,24 @@
 
  </div>
  
-<div align="center"> 
-  <a href="mailto:marcgeorgenow@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+ <div style="text-align: left;">
+    <div align="center">
+    <a href="https://linkedin.com/in/marc-george-a8b1a5263" target="_blank" style="text-decoration: none; border: none;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-george" height="30" width="40" style="margin-right: 10px;" />
+    </a>
+    <a href="https://instagram.com/mcgeorgus" target="_blank" style="text-decoration: none; border: none;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcgeorgus" height="30" width="40" style="margin-right: 10px;" />
+    </a>
+    <a href="https://www.youtube.com/@marc.mgeorge" target="_blank" style="text-decoration: none; border: none;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marc.mgeorge" height="30" width="40" />
+    </a>
+</div>
+
+
+</div>
+
+
+
 </div>
 
  <hr/>
@@ -54,21 +65,12 @@
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com/?user=Yoyobun1&theme=gruvbox&hide_border=false&border_radius=5&order=3" alt="GitHub Streak Stats" style="width: 100%; height: auto;"/>
       </a>
-    </td>
-    <td align="center" width="50%">
+    </div>
+    <div align="center" width="50%">
       <a href="https://github.com/Yoyobun1">
         <img src="https://github-readme-stats.vercel.app/api?username=Yoyobun1&hide=contribs,prs&theme=gruvbox&hide_border=false&border_radius=5&order=3" alt="GitHub Language Stats" style="width: 100%; height: auto; border: none;"/>
       </a>
-      <a href="https://github.com/Yoyobun1">
-        <img src="https://streak-stats.demolab.com?user=Yoyobun1&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" alt="GitHub Language Stats" style="width: 100%; height: auto; border: none;"/>
-      </a>
-      <a href="https://github.com/Yoyobun1">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoyobun1&radius=16&theme=react&area=true&order=5" alt="GitHub Language Stats" style="width: 100%; height: auto; border: none;"/>
-      </a>
-
-  </div>
-
-
+    </div>
 
 <h2 align="center">Me in a nutshell</h2>
 <div align="center">
