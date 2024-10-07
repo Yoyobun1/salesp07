@@ -56,7 +56,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoyobun1&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yoyobun1/Yoyobun1/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yoyobun1/Yoyobun1/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <hr/>
