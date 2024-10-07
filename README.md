@@ -62,17 +62,19 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<div align="center" width="50%">
-  <!-- First User: Yoyobun1 -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Yoyobun1&theme=gruvbox" alt="GitHub Streak Stats for Yoyobun1" style="width: 80%; height: auto;"/>
-  </a>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1; text-align: center;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=Yoyobun1&theme=gruvbox" alt="GitHub Streak Stats for Yoyobun1" style="width: 80%; height: auto;"/>
+    </a>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <a href="https://github.com/Yoyobun1">
+      <img src="https://github-readme-stats.vercel.app/api?username=Yoyobun1&hide=contribs,prs&theme=gruvbox" alt="GitHub Language Stats for Yoyobun1" style="width: 80%; height: auto; border: none;"/>
+    </a>
+  </div>
 </div>
-<div align="center" width="50%">
-  <a href="https://github.com/Yoyobun1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yoyobun1&hide=contribs,prs&theme=gruvbox" alt="GitHub Language Stats for Yoyobun1" style="width: 80%; height: auto; border: none;"/>
-  </a>
-</div>
+
 
 
 
